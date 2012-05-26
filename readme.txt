@@ -1,1 +1,1 @@
-<a href='http://noie6.github.com/'>http://noie6.github.com/</a>
+http://noie6.github.com
